@@ -4,7 +4,8 @@ Group Project Analyzing Small Businesses/Fintech
 
 Instructions:
 - You must have a gmaps and weatherAPI key
-- Please load the XXXX File
+- Please load the XXXX File for our main code file, found here: XXXXXX
+- The project presentation can be found here: https://github.com/CharlesPBiggar/Data-Analytics-Project-1/blob/master/Presentation/GiterDun%20Presentation.pptx
 
 Methodology:
 **We identified our main data set of startup investor data on Kaggle
