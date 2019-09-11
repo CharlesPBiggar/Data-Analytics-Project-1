@@ -1,10 +1,11 @@
-# Data-Analytics-Project-1
+# This is our Group Project Repo
 Group Project Analyzing Small Businesses/Fintech
 ![Group Image](https://github.com/CharlesPBiggar/Data-Analytics-Project-1/blob/master/giter_dun_logo/cover.png)
 
 Instructions:
 - You must have a gmaps and weatherAPI key
 - Please load the XXXX File for our main code file, found here: XXXXXX
+- The final dataset can be found here: https://github.com/CharlesPBiggar/Data-Analytics-Project-1/blob/master/startup_datasets/final_data1.csv
 - The project presentation can be found here: https://github.com/CharlesPBiggar/Data-Analytics-Project-1/tree/master/Presentation
 
 Methodology:
