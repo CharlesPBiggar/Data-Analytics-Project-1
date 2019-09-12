@@ -1,6 +1,6 @@
-# This is our Group Project Repo
+# Data Analytics Group Project
 Group Project Analyzing Small Businesses/Fintech
-![Group Image](https://github.com/CharlesPBiggar/Data-Analytics-Project-1/blob/master/giter_dun_logo/cover.png)
+![Group Image](https://github.com/CharlesPBiggar/Data-Analytics-Project-1/blob/master/images/giter_dun_logo/cover.png)
 
 Instructions:
 - You must have a gmaps and weatherAPI key
