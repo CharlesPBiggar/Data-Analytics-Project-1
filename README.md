@@ -7,6 +7,7 @@ Instructions:
 - Please load the Final_Code.ipynb File for our main code file, found here: https://github.com/CharlesPBiggar/Data-Analytics-Project-1/tree/master/starter_codes
 - The final dataset can be found here: https://github.com/CharlesPBiggar/Data-Analytics-Project-1/blob/master/startup_datasets/final_data1.csv
 - The project presentation can be found here: https://github.com/CharlesPBiggar/Data-Analytics-Project-1/tree/master/Presentation
+- Graphs created with the Plotly Library that can be found here: https://plot.ly/python/
 
 Methodology:
 - We identified our main data set of startup investor data on Kaggle
